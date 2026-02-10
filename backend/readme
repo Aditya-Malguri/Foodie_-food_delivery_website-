@@ -1,0 +1,25 @@
+this contain details about backend for later breif
+
+structure 
+    1- config {
+        this contain all the database configuration files
+    }
+    2-models {
+        store the model of mongodb database
+    }
+    3-middleware{
+        store all middleware
+    }
+    4- controller{
+        logic of our backend
+    }
+    5- routes
+    6- uploads{
+        upload all image uploaded by user
+    }
+
+
+
+all dependencies have their purpose  like
+
+multer used to store image at upload
