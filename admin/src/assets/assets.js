@@ -16,4 +16,4 @@ export const assets ={
     foodie_logo
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://foodie-backend-4th3.onrender.com'
